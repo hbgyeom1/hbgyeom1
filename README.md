@@ -7,10 +7,10 @@
 
 </div>
 
-
+## Research Interestes
+- Big data in Digital Health
+- Disease Prediction using AI
 
 ## Education
 **Kyung Hee University** (Mar. 2020 – Present)<br>
 *B.S. Candidate in Industrial and Management Systems Engineering, Expected Feb. 2026*
-
-## Research Interestes
