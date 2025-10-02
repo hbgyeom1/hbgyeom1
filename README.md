@@ -13,7 +13,7 @@
 
 ## Education
 **Kyung Hee University**<br>
-*B.S. in Department of Industrial and Management Systems Engineering* (Mar. 2020 – Feb. 2026)
+*B.S. in Industrial and Management Systems Engineering* (Mar. 2020 – Feb. 2026)
 
 ## Research Experiences
 Intern, **Zarathu Co., Ltd.** (Jul. 2025 – Aug. 2025)
