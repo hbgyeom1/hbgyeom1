@@ -12,7 +12,8 @@
 - AI-based Disease Prediction
 
 ## Education
-*B.S., Department of Industrial and Management Systems Engineering*, **Kyung Hee University** (Mar. 2020 – Feb. 2026)
+**Kyung Hee University**
+*B.S. in Department of Industrial and Management Systems Engineering* (Mar. 2020 – Feb. 2026)
 
 ## Research Experiences
 Intern, **Zarathu Co., Ltd.** (Jul. 2025 – Aug. 2025)
