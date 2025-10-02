@@ -2,10 +2,12 @@
 
 # I'm hbgyeom1, and I use Arch btw.
 
-</div>
-
 [![GitHub](https://img.shields.io/badge/hbgyeom1-181717?style=flat&logo=github&logoColor=white)](https://github.com/hbgyeom1)
 [![Email](https://img.shields.io/badge/hbgyeom-D14836?style=flat&logo=gmail&logoColor=white)](mailto:hbgyeom@gmail.com)
+
+</div>
+
+
 
 ## Education
 **Kyung Hee University** (Mar. 2020 – Present)<br>
