@@ -1,7 +1,7 @@
 # I'm hbgyeom1, I use Arch btw.
 
 ## Contact
-![GitHub](https://img.shields.io/badge/GitHub-hbgyeom1-181717?style=flat)
+![GitHub](https://img.shields.io/badge/hbgyeom1-181717?style=flat&logo=github&logoColor=white)
 
 ## Education
 **Kyung Hee University** (Mar. 2020 – Present)<br>
