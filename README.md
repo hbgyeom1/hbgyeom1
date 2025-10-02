@@ -1,4 +1,4 @@
-# Hi, I'm hbgyeom.<br>I use arch, btw.
+# I'm hbgyeom1, and I use Arch btw.
 
 ## Contact
 
