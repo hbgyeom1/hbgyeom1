@@ -8,7 +8,7 @@
 </div>
 
 ## Research Interests
-- Digital Health Big Data Analytics
+- Big Data Analysis in Digital Health
 - AI-based Disease Prediction
 
 ## Education
