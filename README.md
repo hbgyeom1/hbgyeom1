@@ -1,6 +1,6 @@
 <div align="center">
 
-# I'm hbgyeom1, I use Arch btw.
+# I'm hbgyeom1, and I use Arch btw.
 
 </div>
 
