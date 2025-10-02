@@ -16,3 +16,5 @@
 *B.S. Candidate in Industrial and Management Systems Engineering, Expected Feb. 2026*
 
 ## Research Experiences
+**Zarathu** (Jul. 2025 – Aug. 2025)<br>
+Intern
