@@ -2,7 +2,7 @@
 
 ## Contact
 [![GitHub](https://img.shields.io/badge/hbgyeom1-181717?style=flat&logo=github&logoColor=white)](https://github.com/hbgyeom1)
-[![Email](https://img.shields.io/badge/hbgyeom1@-D14836?style=flat&logo=gmail&logoColor=white)](mailto:hbgyeom1@gmail.com)
+[![Email](https://img.shields.io/badge/hbgyeom1-D14836?style=flat&logo=gmail&logoColor=white)](mailto:hbgyeom1@gmail.com)
 
 ## Education
 **Kyung Hee University** (Mar. 2020 – Present)<br>
