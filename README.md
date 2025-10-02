@@ -1,5 +1,5 @@
 <div align="center">
-  # I'm hbgyeom1, I use Arch btw.
+# I'm hbgyeom1, I use Arch btw.
 </div>
 
 [![GitHub](https://img.shields.io/badge/hbgyeom1-181717?style=flat&logo=github&logoColor=white)](https://github.com/hbgyeom1)
