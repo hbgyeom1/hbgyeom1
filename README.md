@@ -12,7 +12,7 @@
 - AI-based Disease Prediction
 
 ## Education
-**Kyung Hee University**
+**Kyung Hee University**<br>
 *B.S. in Department of Industrial and Management Systems Engineering* (Mar. 2020 – Feb. 2026)
 
 ## Research Experiences
