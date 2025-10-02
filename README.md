@@ -1,5 +1,4 @@
-# Hi, I'm hbgyeom1<br>
-I use arch, btw
+# Hi, I'm hbgyeom1<br>I use arch, btw
 
 ## Contact
 
