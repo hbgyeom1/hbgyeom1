@@ -15,4 +15,5 @@
 **B.S. in Industrial and Management Systems Engineering**, Kyung Hee University (Mar. 2020 - Expected Feb. 2026)
 
 ## Research Experiences
-**Intern**, Zarathu Co., Ltd. (Jul. 2025 - Aug. 2025)
+**Undergraduate Researcher**, Center for Digital Health, Kyung Hee University Medical Center (Sep. 2025 - Present)
+**Research Intern**, Zarathu Co., Ltd. (Jul. 2025 - Aug. 2025)
