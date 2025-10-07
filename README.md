@@ -32,3 +32,9 @@
 ![r](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
 ![c](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
 ![c++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+
+### Tools and Environments
+![git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![vim](https://img.shields.io/badge/Vim-019733?style=flat&logo=vim&logoColor=white)
+![arch-linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat&logo=arch-linux&logoColor=white)
