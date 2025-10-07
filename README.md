@@ -21,3 +21,8 @@
 ## Awards and Honors
 - 1st Place, 9th GIST AI Innovative Convergence Technology Contest (Jul. 2025 - Aug. 2025)
 - 1st Place, 8th GIST AI Innovative Convergence Technology Contest (Jul. 2024 - Aug. 2024)
+
+## Projects
+- 2024 XR Device Contents Makeathon (Oct. 2024 - Nov. 2024)
+
+## Skills and Techniques
