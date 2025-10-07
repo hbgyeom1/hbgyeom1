@@ -38,3 +38,4 @@
 ![docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![vim](https://img.shields.io/badge/Vim-019733?style=flat&logo=vim&logoColor=white)
 ![arch-linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat&logo=arch-linux&logoColor=white)
+![zsh](https://img.shields.io/badge/Zsh-F15A24?style=flat&logo=zsh&logoColor=white)
