@@ -2,8 +2,8 @@
 
 # I'm Gyeom, and I use Arch btw.
 
-![gmail](https://img.shields.io/badge/hbgyeom-EA4335?logo=gmail&logoColor=white)
-![github](https://img.shields.io/badge/hbgyeom1-181717?logo=github&logoColor=white)
+[![gmail](https://img.shields.io/badge/hbgyeom-EA4335?logo=gmail&logoColor=white)](mailto:hbgyeom@gmail.com)
+[![github](https://img.shields.io/badge/hbgyeom1-181717?logo=github&logoColor=white)](https://github.com/hbgyeom1)
 
 </div>
 
