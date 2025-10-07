@@ -45,6 +45,7 @@
 ![opencv](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
 ![pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![numpy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![tidyverse](https://img.shields.io/badge/Tidyverse-1A162D?style=flat&logo=tidyverse&logoColor=white)
 
 ### Tools and Environments
 ![git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
