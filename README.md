@@ -30,5 +30,5 @@
 ### Programming Languages
 ![python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![r](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
-![c](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
+![c](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white)
 ![c++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
