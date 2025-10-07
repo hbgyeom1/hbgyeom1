@@ -2,7 +2,7 @@
 
 # I'm Gyeom, and I use Arch btw.
 
-![gmail](https://img.shields.io/badge/hbgyeom-EA4335?logo=Gmail&logoColor=white)
+![gmail](https://img.shields.io/badge/hbgyeom-EA4335?logo=gmail&logoColor=white)
 ![github](https://img.shields.io/badge/hbgyeom1-181717?logo=github&logoColor=white)
 
 </div>
