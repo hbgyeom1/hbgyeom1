@@ -29,3 +29,6 @@
 
 ### Programming Languages
 ![python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![r](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)
+![c](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white)
+![c++](https://img.shields.io/badge/C++-00599C?logo=c++&logoColor=white)
