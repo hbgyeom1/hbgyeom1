@@ -26,6 +26,6 @@
 - 2024 XR Device Contents Makeathon (Oct. 2024 - Nov. 2024)
 
 ## Skills and Techniques
-- Programming Languages
 
+### Programming Languages
 [![gmail](https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=white)](mailto:hbgyeom@gmail.com)
