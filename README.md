@@ -2,7 +2,7 @@
 
 # I'm Gyeom, and I use Arch btw.
 
-![github](https://img.shields.io/badge/GitHub)
+![github](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
 
 </div>
 
