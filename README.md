@@ -28,4 +28,4 @@
 ## Skills and Techniques
 
 ### Programming Languages
-[![gmail](https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=white)](mailto:hbgyeom@gmail.com)
+![python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
