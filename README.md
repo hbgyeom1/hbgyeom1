@@ -25,6 +25,12 @@
 ## Projects
 - 2024 XR Device Contents Makeathon (Oct. 2024 - Nov. 2024)
 
+## Contributions
+- [zarathucorp/rashnu](https://github.com/zarathucorp/rashnu)
+- [jinseob2kim/jstable](https://github.com/jinseob2kim/jstable)
+- [jinseob2kim/jskm](https://github.com/jinseob2kim/jskm)
+- [jinseob2kim/jsmodule](https://github.com/jinseob2kim/jsmodule)
+
 ## Skills and Techniques
 
 ### Programming Languages
@@ -32,6 +38,8 @@
 ![r](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
 ![c](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
 ![c++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+
+### Frameworks & Libraries
 
 ### Tools and Environments
 ![git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
