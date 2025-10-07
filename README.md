@@ -49,6 +49,7 @@
 ### Tools and Environments
 ![git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![cmake](https://img.shields.io/badge/CMake-064F8C?style=flat&logo=cmake&logoColor=white)
 ![vim](https://img.shields.io/badge/Vim-019733?style=flat&logo=vim&logoColor=white)
 ![arch-linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat&logo=arch-linux&logoColor=white)
 ![zsh](https://img.shields.io/badge/Zsh-F15A24?style=flat&logo=zsh&logoColor=white)
