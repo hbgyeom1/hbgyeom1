@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi I'm Gyeom, and I use Arch btw.
+# Hi, I'm Gyeom. I use Arch btw.
 
 [![gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:hbgyeom@gmail.com)
 [![github](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/hbgyeom1)
