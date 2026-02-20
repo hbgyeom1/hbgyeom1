@@ -8,8 +8,8 @@
 </div>
 
 ## Education
-- **M.S. in Graduate School of Precision Medicine**, Kyung Hee University (Feb. 2026 - Present)
-- **B.S. in Industrial and Management Systems Engineering**, Kyung Hee University (Mar. 2020 - Feb. 2026)
+- **M.S. in Department of Precision Medicine**, Kyung Hee University College of Medicine (Feb. 2026 - Present)
+- **B.S. in Department of Industrial and Management Systems Engineering**, Kyung Hee University (Mar. 2020 - Feb. 2026)
 
 ## Research Interests
 - 
