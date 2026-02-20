@@ -8,7 +8,7 @@
 </div>
 
 ## Education
-- **B.S. in Industrial and Management Systems Engineering**, Kyung Hee University (Mar. 2020 - Expected Feb. 2026)
+- **B.S. in Industrial and Management Systems Engineering**, Kyung Hee University (Mar. 2020 - Feb. 2026)
 
 ## Research Interests
 - 
