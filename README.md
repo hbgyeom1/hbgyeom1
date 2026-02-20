@@ -16,8 +16,8 @@
 - 
 
 ## Research Experiences
-- **Master’s Researcher**, Center for Digital Health, Kyung Hee University Medical Center (Feb. 2026 - Present)
-- **Undergraduate Researcher**, Center for Digital Health, Kyung Hee University Medical Center (Sep. 2025 - Feb. 2026)
+- **Master’s Researcher**, Center for Digital Health, Medical Science Research Institute, Kyung Hee University College of Medicine (Feb. 2026 - Present)
+- **Undergraduate Researcher**, Center for Digital Health, Medical Science Research Institute, Kyung Hee University College of Medicine (Sep. 2025 - Feb. 2026)
 - **Research Intern**, Zarathu Co., Ltd. (Jul. 2025 - Aug. 2025)
 
 ## Awards and Honors
