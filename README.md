@@ -8,6 +8,7 @@
 </div>
 
 ## Education
+- **M.S. in Graduate School of Precision Medicine**, Kyung Hee University (Feb. 2026 - Present)
 - **B.S. in Industrial and Management Systems Engineering**, Kyung Hee University (Mar. 2020 - Feb. 2026)
 
 ## Research Interests
@@ -15,7 +16,7 @@
 - 
 
 ## Research Experiences
-- **Undergraduate Researcher**, Center for Digital Health, Kyung Hee University Medical Center (Sep. 2025 - Present)
+- **Undergraduate Researcher**, Center for Digital Health, Kyung Hee University Medical Center (Sep. 2025 - Feb. 2026)
 - **Research Intern**, Zarathu Co., Ltd. (Jul. 2025 - Aug. 2025)
 
 ## Awards and Honors
