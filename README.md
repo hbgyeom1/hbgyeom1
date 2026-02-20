@@ -18,7 +18,7 @@
 ## Research Experiences
 - **Master’s Researcher**, Center for Digital Health, Kyung Hee University College of Medicine (Feb. 2026 - Present)
 - **Undergraduate Researcher**, Center for Digital Health, Kyung Hee University College of Medicine (Sep. 2025 - Feb. 2026)
-- **Research Intern**, Zarathu Co., Ltd. (Jul. 2025 - Aug. 2025)
+- **Intern**, Zarathu Co., Ltd. (Jul. 2025 - Aug. 2025)
 
 ## Awards and Honors
 - **1st Place**, 9th GIST AI Innovative Convergence Technology Contest (Jul. 2025 - Aug. 2025)
