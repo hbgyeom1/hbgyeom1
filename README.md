@@ -17,4 +17,4 @@
 ## Skills
 
 
-## Honors and Awards
+## Honors & Awards
