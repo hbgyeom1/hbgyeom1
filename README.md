@@ -11,10 +11,6 @@
 - **M.S. in Department of Precision Medicine**, Kyung Hee University College of Medicine (Feb. 2026 - Present)
 - **B.S. in Department of Industrial and Management Systems Engineering**, Kyung Hee University (Mar. 2020 - Feb. 2026)
 
-## Research Interests
-- 
-- 
-
 ## Research Experiences
 - **Master’s Researcher**, Center for Digital Health, Kyung Hee University College of Medicine (Feb. 2026 - Present)
 - **Undergraduate Researcher**, Center for Digital Health, Kyung Hee University College of Medicine (Sep. 2025 - Feb. 2026)
@@ -24,18 +20,13 @@
 - **1st Place**, 9th GIST AI Innovative Convergence Technology Contest (Jul. 2025 - Aug. 2025)
 - **1st Place**, 8th GIST AI Innovative Convergence Technology Contest (Jul. 2024 - Aug. 2024)
 
-## Projects
-- 2024 XR Device Contents Makeathon (Oct. 2024 - Nov. 2024)
-
 ## Open Source Contributions
 - [zarathucorp/rashnu](https://github.com/zarathucorp/rashnu)
 - [jinseob2kim/jstable](https://github.com/jinseob2kim/jstable)
 - [jinseob2kim/jskm](https://github.com/jinseob2kim/jskm)
 - [jinseob2kim/jsmodule](https://github.com/jinseob2kim/jsmodule)
 
-## Skills and Techniques
-
-### Programming Languages
+## Programming Languages
 ![python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![r](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
 ![c](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
