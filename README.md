@@ -3,12 +3,10 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
 
 ## Education
-Kyung Hee University, Seoul, South Korea
-
+Kyung Hee University, Seoul, South Korea<br>
 M.S. in Precision Medicine (Feb 2026 – Present)
 
-Kyung Hee University, Yongin, South Korea
-
+Kyung Hee University, Yongin, South Korea<br>
 B.S. in Industrial and Management Systems Engineering (Mar 2020 – Feb 2026)
 
 ## Research Experience
