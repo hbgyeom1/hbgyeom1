@@ -4,7 +4,10 @@
 
 ## Education
 Kyung Hee University, Seoul, South Korea
-M.S. in Precision Medicine                                      Feb 2026 – Present
+M.S. in Precision Medicine (Feb 2026 – Present)
+
+Kyung Hee University, Yongin, South Korea
+B.S. in Industrial and Management Systems Engineering (Mar 2020 – Feb 2026)
 ## Research Experience
 
 
