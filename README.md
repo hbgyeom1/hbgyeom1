@@ -1,5 +1,5 @@
 # Gyeom Hwangbo
-![Gmail](https://img.shields.io/badge/Gmail-yourname@gmail.com?logo=gmail)
+![Gmail](https://img.shields.io/badge/hbgyeom@gmail.com-white?logo=gmail)
 ## Education
 
 
