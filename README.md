@@ -1,33 +1,4 @@
-<div align="center">
+# Gyeom Hwangbo
+hbgyeom@gmail.com | https://github.com/hbgyeom1
 
-# Hi, I'm Gyeom. I use Arch btw.
-
-[![gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:hbgyeom@gmail.com)
-[![github](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/hbgyeom1)
-
-</div>
-
-## Education
-- **M.S. in Department of Precision Medicine**, Kyung Hee University (Feb. 2026 - Present)
-- **B.S. in Department of Industrial and Management Systems Engineering**, Kyung Hee University (Mar. 2020 - Feb. 2026)
-
-## Research Experiences
-- **Master’s Researcher**, Center for Digital Health, Kyung Hee University (Feb. 2026 - Present)
-- **Undergraduate Researcher**, Center for Digital Health, Kyung Hee University (Sep. 2025 - Feb. 2026)
-- **Intern**, Zarathu Co., Ltd. (Jul. 2025 - Aug. 2025)
-
-## Awards and Honors
-- **1st Place**, 9th GIST AI Innovative Convergence Technology Contest (Jul. 2025 - Aug. 2025)
-- **1st Place**, 8th GIST AI Innovative Convergence Technology Contest (Jul. 2024 - Aug. 2024)
-
-## Open Source Contributions
-- [zarathucorp/rashnu](https://github.com/zarathucorp/rashnu)
-- [jinseob2kim/jstable](https://github.com/jinseob2kim/jstable)
-- [jinseob2kim/jskm](https://github.com/jinseob2kim/jskm)
-- [jinseob2kim/jsmodule](https://github.com/jinseob2kim/jsmodule)
-
-## Programming Languages
-![python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![r](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
-![c](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
-![c++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+# Education
