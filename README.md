@@ -27,6 +27,6 @@ Zarathu Co., Ltd., Seoul, South Korea
 
 
 ## Honors & Awards
-Gwangju Institute of Science and Technology, Gwangju, South Korea
+Gwangju Institute of Science and Technology, Gwangju, South Korea<br>
 1st Place, AI Innovative Convergence Technology Contest (2025)
 1st Place, AI Innovative Convergence Technology Contest (2024)
