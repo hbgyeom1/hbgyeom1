@@ -28,5 +28,5 @@ Intern (Jul 2025 - Aug 2025)
 
 ## Honors & Awards
 Gwangju Institute of Science and Technology, Gwangju, South Korea<br>
-1st Place, AI Innovative Convergence Technology Contest (2025)
+1st Place, AI Innovative Convergence Technology Contest (2025)<br>
 1st Place, AI Innovative Convergence Technology Contest (2024)
