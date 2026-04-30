@@ -1,7 +1,6 @@
 # Hi, I'm Gyeom. I use Arch btw (I used to...).
-![Gmail](https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)]
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=white)](mailto:hbgyeom@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/hbgyeom1)
 
 ## Education
 Kyung Hee University, Seoul, South Korea<br>
