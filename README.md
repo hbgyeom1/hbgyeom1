@@ -13,7 +13,7 @@ B.S. in Industrial and Management Systems Engineering (Mar 2020 - Feb 2026)
 
 ## Research Experience
 Center for Digital Health, Kyung Hee University, Seoul, South Korea<br>
-Master's researcher (Feb 2026 - Present)
+Master's researcher (Feb 2026 - Present)<br>
 Undergraduate researcher (Sep 2025 - Feb 2026)
 
 ## Work Experience
