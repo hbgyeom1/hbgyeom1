@@ -25,7 +25,7 @@ Intern (Jul 2025 - Aug 2025)
 ## Projects
 rashnu
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/zarathucorp/rashnu)
-[![CRAN](https://img.shields.io/badge/R-%23276DC3.svg?logo=r&logoColor=white)](https://cran.r-project.org/web/packages/rashnu/index.html)<br>
+[![CRAN](https://img.shields.io/badge/CRAN-%23276DC3.svg?logo=r&logoColor=white)](https://cran.r-project.org/web/packages/rashnu/index.html)<br>
 jskm<br>
 jsmodule<br>
 jstable
