@@ -6,19 +6,19 @@
 
 ## Education
 Kyung Hee University, Seoul, South Korea<br>
-- M.S. in Precision Medicine (Feb 2026 - Present)
+M.S. in Precision Medicine (Feb 2026 - Present)
 
 Kyung Hee University, Yongin, South Korea<br>
-- B.S. in Industrial and Management Systems Engineering (Mar 2020 - Feb 2026)
+B.S. in Industrial and Management Systems Engineering (Mar 2020 - Feb 2026)
 
 ## Research Experience
 Center for Digital Health, Kyung Hee University, Seoul, South Korea<br>
-- Master's researcher (Feb 2026 - Present)
-- Undergraduate researcher (Sep 2025 - Feb 2026)
+Master's researcher (Feb 2026 - Present)
+Undergraduate researcher (Sep 2025 - Feb 2026)
 
 ## Work Experience
 Zarathu Co., Ltd., Seoul, South Korea
-- Intern (Jul 2025 - Aug 2025)
+Intern (Jul 2025 - Aug 2025)
 
 ## Projects
 
