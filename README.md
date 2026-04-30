@@ -19,7 +19,7 @@ Master's researcher (Feb 2026 - Present)<br>
 Undergraduate researcher (Sep 2025 - Feb 2026)
 
 ## Work Experience
-Zarathu Co., Ltd., Seoul, South Korea
+Zarathu Co., Ltd., Seoul, South Korea<br>
 Intern (Jul 2025 - Aug 2025)
 
 ## Projects
